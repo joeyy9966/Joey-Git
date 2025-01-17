@@ -12,3 +12,5 @@ def divFunction(x, y):
 
 def powFunction(x, y):
     return x ** y
+
+#BC/ICT/22/198
